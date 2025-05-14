@@ -1,4 +1,6 @@
-# pfasdetection
+# PFAS Project
 PFAS Detection Research Using Data Science and Machine Learning Techniques (SML312 Project)
 # Abstract
 Water crises can result in harmful, long-term health effects for communities due to significant reliance on drinking water. In the past, health concerns came from lead water crises, but future water concerns will likely come from per- and polyfluoroalkyl substances (PFAS). Using data science techniques and machine learning models, this research aims to examine what machine learning (ML) model results in the highest performance at PFAS detection in terms of accuracy, recall, and precision scores. Furthermore, we will also examine what potential subset of features from the gathered dataset can maintain or improve the highest model's performance. Through this project, Gradient Boosting Machines (GBMs) and its variants resulted in the best PFAS prediction performance with $78.7\%$ accuracy. Additionally, a feature subset was found that increased the accuracy scores for GBMs and its variant to $82.6\%$ and $82.1\%$ respectively. With this research, we can observe the best prediction models and what features are key contributors to PFAS detection.
+# Project Goal
+The goal of this project is to use collected PFAS data with binary labels (0 for PFAS absence and 1 for PFAS presence) and determine the binary classification model with the highest prediction accuracy. An additional goal of this project is to determine the features that best contribute to the model with the highest accuracy.
